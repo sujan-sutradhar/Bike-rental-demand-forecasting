@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 ### Load Dataset
 
 
-data_path ="../data/Cleaned_Bike_dataset.csv"
+data_path ="Cleaned_Bike_dataset.csv"
 df = pd.read_csv(data_path,encoding="unicode_escape")
 # EDA
 
